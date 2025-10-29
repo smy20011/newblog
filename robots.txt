@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://smy20011.github.io/newblog/sitemap.xml
